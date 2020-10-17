@@ -17,7 +17,7 @@ A aplicação está sendo desenvolvida durante a Next Level Week(NLW), que é um
 <hr/>
 
 <h3 align="center">Página de Informações ao Escolher um Orfanato</h3>
-<p align="center"><img src="https://user-images.githubusercontent.com/48254551/96311921-e9879580-0fe0-11eb-849f-23ece47e51f2.png" title="img1"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/48254551/96325455-2b730480-0ffe-11eb-85b8-69a7f135c974.png" title="img1"/></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/48254551/96312030-26538c80-0fe1-11eb-83aa-9914b9f16f02.png" title="img2"/></p>
 
 <hr/>
